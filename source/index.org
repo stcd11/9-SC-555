@@ -59,7 +59,7 @@
 :HTML_CONTAINER_CLASS: code
 :END:
 - Below is an image of the circuit you are going to be using.
-[[images/circuit.png]]
+[[img/circuit.png]]
 - Use circuit wizard to replicate this circuit.
 ** Record It
 :PROPERTIES:
@@ -78,16 +78,9 @@
   - Try not to use the auto-routing.
   - Try to make sure that tracks do not cross each other.
   - Try to keep the PCB as small as possible
-** Record ItR
+** Record It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: save
 :END:
 - Add the image of the PCB to your write up, along with a brief explanation of what it is.
-** Run It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: run
-:END:
-** Try It:
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: try
-:END:
+
