@@ -59,7 +59,7 @@
 :HTML_CONTAINER_CLASS: code
 :END:
 - Below is an image of the circuit you are going to be using.
-[[img/circuit.png]]
+[[file:img/circuit.png]]
 - Use circuit wizard to replicate this circuit.
 ** Record It
 :PROPERTIES:
