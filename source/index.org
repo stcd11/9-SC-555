@@ -75,7 +75,7 @@
 :HTML_CONTAINER_CLASS: design
 :END:
 - Below is an image of the circuit you are going to be using.
-[[file:img/circuit.png]]
+[[file:img/1_lesson/circuit.png]]
 - Use circuit wizard to replicate this circuit.
 ** Record It
 :PROPERTIES:
