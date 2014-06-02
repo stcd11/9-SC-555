@@ -114,9 +114,9 @@
     display: block;
     max-width:800px;
 }
-.code h3{
+.research h3{
     color: #4099FF;
-    background-image: url(../img/code.svg);
+    background-image: url(img/Researcg.png);
     line-height:40px;
     background-size: 40px 40px;
     background-repeat: no-repeat;
@@ -127,9 +127,9 @@
     float: left;
     width: 100%;
 }
-.run h3 {
+.design h3 {
     color: #4099FF;
-    background-image: url(../img/terminal.svg);
+    background-image: url(img/Design.png);
     background-position: 0px 10px;
     background-size: 40px 40px;
     background-repeat: no-repeat;
@@ -143,9 +143,9 @@
     width: 100%;
     border-top: 3px dotted #4099FF;
 }
-.save h3 {
+.build h3 {
     color: #4099FF;
-    background-image: url(../img/stiffy.svg);
+    background-image: url(img/Build.png);
     background-position: 0px 10px;
     background-size: 40px 40px;
     background-repeat: no-repeat;
@@ -160,9 +160,43 @@
     border-top: 3px dotted #4099FF;        
 }
 
-.try h3 {
+.test h3 {
     color: #4099FF;
-    background-image: url(../img/bulb.svg);
+    background-image: url(img/Test.png);
+    background-position: 0px 10px;
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-left:50px;
+    font-size: 20px;
+    float: left;
+    width: 100%;
+    border-top: 3px dotted #4099FF;
+}
+
+.record h3 {
+    color: #4099FF;
+    background-image: url(img/Record.png);
+    background-position: 0px 10px;
+    background-size: 40px 40px;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-left:50px;
+    font-size: 20px;
+    float: left;
+    width: 100%;
+    border-top: 3px dotted #4099FF;
+}
+
+.program h3 {
+    color: #4099FF;
+    background-image: url(img/Program.png);
     background-position: 0px 10px;
     background-size: 40px 40px;
     background-repeat: no-repeat;
@@ -179,7 +213,7 @@
 
 .badge h3{
     color: #4099FF;
-    background-image: url(../img/star.svg);
+    background-image: url(img/Badge.png);
     line-height:40px;
     background-size: 40px 40px;
     background-repeat: no-repeat;

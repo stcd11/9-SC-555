@@ -1,6 +1,6 @@
 #+STARTUP:indent
-#+STYLE: <link rel="stylesheet" type="text/css" href="css/main.css"/>
-#+STYLE: <link rel="stylesheet" type="text/css" href="css/lesson.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/main.css"/>
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="css/lesson.css"/>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
 #+TITLE: 555 Piano
 #+AUTHOR: Marc Scott
@@ -12,42 +12,58 @@
 #+END_HTML
 
 * COMMENT Use as a template
+- A little intro
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-** Code It
+** Research It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: code
+:HTML_CONTAINER_CLASS: research
 :END:
-** Save It
+-Some research
+** Design It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: save
+:HTML_CONTAINER_CLASS: design
 :END:
-** Run It
+- Some design
+** Build It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: run
+:HTML_CONTAINER_CLASS: build
 :END:
-** Try It:
+- Some Building
+** Test It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: try
+:HTML_CONTAINER_CLASS: test
 :END:
+- Some testing
+** Record It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: record
+:END:
+- Some recording
+** Program It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: program
+:END:
+- Some programming
 * Introduction
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
 - In this project you'll be creating an electronic piano, using an IC called a 555 timer.
 ** Research It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: research
+:END:
 - What is meant by the term IC?
 - Look up the 555 timer?
   - What does the 555 timer do?
   - What does astable mean?
   - What does monostable mean?
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: code
-:END:
+
 ** Record it
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: save
+:HTML_CONTAINER_CLASS: record
 :END:
 - Use PowerPoint, Word, Hand written notes or even HTML to write up your findings so far.
 * Design the Circuit
@@ -56,14 +72,14 @@
 :END:
 ** Design It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: code
+:HTML_CONTAINER_CLASS: design
 :END:
 - Below is an image of the circuit you are going to be using.
 [[file:img/circuit.png]]
 - Use circuit wizard to replicate this circuit.
 ** Record It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: save
+:HTML_CONTAINER_CLASS: record
 :END:
 - Add the image of the circuit to your write up along with a brief explanation of what it is.
 * Design the PCB
@@ -72,7 +88,7 @@
 :END:
 ** Design It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: code
+:HTML_CONTAINER_CLASS: design
 :END:
 - Use the tools in Circuit Wizard to attempt to design your own PCB
   - Try not to use the auto-routing.
@@ -80,7 +96,6 @@
   - Try to keep the PCB as small as possible
 ** Record It
 :PROPERTIES:
-:HTML_CONTAINER_CLASS: save
+:HTML_CONTAINER_CLASS: record
 :END:
 - Add the image of the PCB to your write up, along with a brief explanation of what it is.
-
