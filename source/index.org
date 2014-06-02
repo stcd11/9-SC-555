@@ -45,7 +45,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: program
 :END:
-- Some programming
+- Some programming 
 * Introduction
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -61,7 +61,7 @@
   - What does astable mean?
   - What does monostable mean?
 
-** Record it
+** Record It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: record
 :END:
