@@ -1,0 +1,93 @@
+#+STARTUP:indent
+#+STYLE: <link rel="stylesheet" type="text/css" href="css/main.css"/>
+#+STYLE: <link rel="stylesheet" type="text/css" href="css/lesson.css"/>
+#+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
+#+TITLE: 555 Piano
+#+AUTHOR: Marc Scott
+
+#+BEGIN_HTML
+<div class=ribbon>
+<a href="https://github.com/MarcScott/9-SC-555">Fork me on GitHub</a>
+</div>
+#+END_HTML
+
+* COMMENT Use as a template
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Code It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+** Save It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+** Try It:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
+* Introduction
+- In this project you'll be creating an electronic piano, using an IC called a 555 timer.
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Research It
+- What is meant by the term IC?
+- Look up the 555 timer?
+  - What does the 555 timer do?
+  - What does astable mean?
+  - What does monostable mean?
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+** Record it
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+- Use PowerPoint, Word, Hand written notes or even HTML to write up your findings so far.
+* Design the Circuit
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+- Below is an image of the circuit you are going to be using.
+[[images/circuit.png]]
+- Use circuit wizard to replicate this circuit.
+** Record It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+- Add the image of the circuit to your write up along with a brief explanation of what it is.
+* Design the PCB
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: activity
+:END:
+** Design It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: code
+:END:
+- Use the tools in Circuit Wizard to attempt to design your own PCB
+  - Try not to use the auto-routing.
+  - Try to make sure that tracks do not cross each other.
+  - Try to keep the PCB as small as possible
+** Record ItR
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: save
+:END:
+- Add the image of the PCB to your write up, along with a brief explanation of what it is.
+** Run It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: run
+:END:
+** Try It:
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: try
+:END:
