@@ -146,18 +146,29 @@ for the JavaScript code in this tag.
 <ul>
 <li><a href="#sec-1-1">Research It</a></li>
 <li><a href="#sec-1-2">Record It</a></li>
+<li><a href="#sec-1-3">Research It</a></li>
 </ul>
 </li>
 <li><a href="#sec-2">2. Design the Circuit</a>
 <ul>
 <li><a href="#sec-2-1">Design It</a></li>
 <li><a href="#sec-2-2">Record It</a></li>
+<li><a href="#sec-2-3">Test It</a></li>
+<li><a href="#sec-2-4">Record It</a></li>
 </ul>
 </li>
 <li><a href="#sec-3">3. Design the PCB</a>
 <ul>
 <li><a href="#sec-3-1">Design It</a></li>
 <li><a href="#sec-3-2">Record It</a></li>
+</ul>
+</li>
+<li><a href="#sec-4">4. Building the circuit</a>
+<ul>
+<li><a href="#sec-4-1">Research It</a></li>
+<li><a href="#sec-4-2">Record It</a></li>
+<li><a href="#sec-4-3">Build It</a></li>
+<li><a href="#sec-4-4">Record It</a></li>
 </ul>
 </li>
 </ul>
@@ -194,12 +205,24 @@ for the JavaScript code in this tag.
 </ul>
 </div>
 </div>
-
 <div id="outline-container-sec-1-2" class="outline-3 record">
 <h3 id="sec-1-2">Record It</h3>
 <div class="outline-text-3" id="text-1-2">
 <ul class="org-ul">
-<li>Use PowerPoint, Word, Hand written notes or even HTML to write up your findings so far.
+<li>Use PowerPoint, Word, hand written notes or even HTML to write up your findings so far.
+</li>
+<li>Include an image of a 555 timer and a brief description of what it does.
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-1-3" class="outline-3 research">
+<h3 id="sec-1-3">Research It</h3>
+<div class="outline-text-3" id="text-1-3">
+<ul class="org-ul">
+<li>The 555 timer will produce a pulse from the output to the speaker. The frequency of the pulse depends on the resistance of the circuit.
+</li>
+<li>Conduct some research on sound and what makes a note have a high or low pitch.
 </li>
 </ul>
 </div>
@@ -222,7 +245,15 @@ for the JavaScript code in this tag.
 </p>
 </div>
 <ul class="org-ul">
-<li>Use circuit wizard to replicate this circuit.
+<li>Use Circuit Wizard to replicate the circuit.
+<ul class="org-ul">
+<li>The 555 Timer can be found under Integrated Circuits
+</li>
+<li>The Capacitors can be set to any capacitance you like once you have placed them.
+</li>
+<li>The potentiometer's resistance can be altered once you simulate the circuit.
+</li>
+</ul>
 </li>
 </ul>
 </div>
@@ -231,7 +262,38 @@ for the JavaScript code in this tag.
 <h3 id="sec-2-2">Record It</h3>
 <div class="outline-text-3" id="text-2-2">
 <ul class="org-ul">
-<li>Add the image of the circuit to your write up along with a brief explanation of what it is.
+<li>Add the image of the circuit to your write up.
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-2-3" class="outline-3 test">
+<h3 id="sec-2-3">Test It</h3>
+<div class="outline-text-3" id="text-2-3">
+<ul class="org-ul">
+<li>In Circuit Wizard, find the Virtual Instruments and then select a Digital Multimeter
+</li>
+<li>Add it into your circuit as shown below.
+</li>
+</ul>
+
+<div class="figure">
+<p><img src="img/1_lesson/multimeter.png" alt="multimeter.png" />
+</p>
+</div>
+<ul class="org-ul">
+<li>Right click on the multimeter and make sure that it is measuring <span class="underline">ohms</span>.
+</li>
+<li>Now hit the play button to simulate your circuit and watch what happens to the resistance when different switches are pushed.
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-2-4" class="outline-3 record">
+<h3 id="sec-2-4">Record It</h3>
+<div class="outline-text-3" id="text-2-4">
+<ul class="org-ul">
+<li>Add a description of what happens when different switches are pressed to your write-up.
 </li>
 </ul>
 </div>
@@ -245,24 +307,103 @@ for the JavaScript code in this tag.
 <h3 id="sec-3-1">Design It</h3>
 <div class="outline-text-3" id="text-3-1">
 <ul class="org-ul">
-<li>Use the tools in Circuit Wizard to attempt to design your own PCB
+<li>You're going to have a go at creating a PCB of your circuit.
+</li>
+<li>Click the button that looks like this <img src="img/1_lesson/button.png" alt="button.png" />
+</li>
+<li>Click Next and then choose <span class="underline">Rats Nest; No Placement or Routing</span> and check the box for allowing customisation.
+</li>
+</ul>
+
+<div class="figure">
+<p><img src="img/1_lesson/rats.png" alt="rats.png" />
+</p>
+</div>
 <ul class="org-ul">
-<li>Try not to use the auto-routing.
+<li>Next and Next again
 </li>
-<li>Try to make sure that tracks do not cross each other.
-</li>
-<li>Try to keep the PCB as small as possible
+<li>For each of the PTM switches, you need to make sure you're choosing 10x10 switches. Double click the switch in the list and change it.
 </li>
 </ul>
+<p>
+<img src="img/1_lesson/PTM.png" alt="PTM.png" />
+<img src="img/1_lesson/10x10.png" alt="10x10.png" />
+</p>
+<ul class="org-ul">
+<li>Now you can click through the remaining menus and convert your circuit to a PCB
+</li>
+<li>You'll need to try and place the components so that the green connecting wires don't overlap. You might find it's easier to delete the rectangular board to begin with.
+</li>
+<li>Once you are happy with the placement, try and connect up the components with tracks.
+</li>
+<li>Here's an example, but try and design you own.
 </li>
 </ul>
+
+<div class="figure">
+<p><img src="img/1_lesson/PCB.png" alt="PCB.png" />
+</p>
+</div>
 </div>
 </div>
 <div id="outline-container-sec-3-2" class="outline-3 record">
 <h3 id="sec-3-2">Record It</h3>
 <div class="outline-text-3" id="text-3-2">
 <ul class="org-ul">
-<li>Add the image of the PCB to your write up, along with a brief explanation of what it is.
+<li>Add the image of the PCB to your write up.
+</li>
+<li>Explain any placements that you found tricky to solve.
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-sec-4" class="outline-2 activity">
+<h2 id="sec-4"><span class="section-number-2">4</span> Building the circuit</h2>
+<div class="outline-text-2" id="text-4">
+<ul class="org-ul">
+<li>The PCBs you are using have been protected with a silkscreen. This should make the job of soldering them easier to complete.
+</li>
+</ul>
+</div>
+<div id="outline-container-sec-4-1" class="outline-3 research">
+<h3 id="sec-4-1">Research It</h3>
+<div class="outline-text-3" id="text-4-1">
+<ul class="org-ul">
+<li>Look up the term silkscreen in relation to PCBs and find out what is means.
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-2" class="outline-3 record">
+<h3 id="sec-4-2">Record It</h3>
+<div class="outline-text-3" id="text-4-2">
+<ul class="org-ul">
+<li>Add your findings to your write up
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-sec-4-3" class="outline-3 build">
+<h3 id="sec-4-3">Build It</h3>
+<div class="outline-text-3" id="text-4-3">
+<ul class="org-ul">
+<li>Below is a picture of a fully assembled PCB. There should also be a demo model available for you to examine.
+</li>
+<li>Use the images and the circuit design from the previous section, to place and solder your components to the board.
+</li>
+</ul>
+<p>
+<img src="img/1_lesson/component-side.jpg" alt="component-side.jpg" />
+<img src="img/1_lesson/solder-side.jpg" alt="solder-side.jpg" />
+</p>
+</div>
+</div>
+<div id="outline-container-sec-4-4" class="outline-3 record">
+<h3 id="sec-4-4">Record It</h3>
+<div class="outline-text-3" id="text-4-4">
+<ul class="org-ul">
+<li>Take pictures as you solder your PCB circuit, to ensure you have a record of the progress you have made.
 </li>
 </ul>
 </div>
