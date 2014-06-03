@@ -2,7 +2,7 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/main.css"/>
 #+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="css/lesson.css"/>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
-#+TITLE: 555 Piano
+#+TITLE: The BGS 555 Piano
 #+AUTHOR: Marc Scott
 
 #+BEGIN_HTML
@@ -72,6 +72,12 @@
 :END:
 - The 555 timer will produce a pulse from the output to the speaker. The frequency of the pulse depends on the resistance of the circuit.
 - Conduct some research on sound and what makes a note have a high or low pitch.
+** Record It
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: record
+:END:
+- Add your findings to your notes.
+- Get your teacher to evidence that you have completed this section
 * Design the Circuit
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -105,6 +111,7 @@
 :HTML_CONTAINER_CLASS: record
 :END:
 - Add a description of what happens when different switches are pressed to your write-up.
+- Get your teacher to evidence that you have completed this section
 * Design the PCB
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
@@ -132,6 +139,7 @@
 :END:
 - Add the image of the PCB to your write up.
 - Explain any placements that you found tricky to solve.
+- Get your teacher to evidence that you have completed this section.
 * Building the circuit
 - The PCBs you are using have been protected with a silkscreen. This should make the job of soldering them easier to complete.
 :PROPERTIES:
@@ -160,3 +168,4 @@
 :HTML_CONTAINER_CLASS: record
 :END:
 - Take pictures as you solder your PCB circuit, to ensure you have a record of the progress you have made.
+- Get your teacher to evidence that you have completed this section.
