@@ -161,8 +161,8 @@
 :END:
 - Below is a picture of a fully assembled PCB. There should also be a demo model available for you to examine.
 - Use the images and the circuit design from the previous section, to place and solder your components to the board.
-[[file:img/1_lesson/component-side.jpg]]
-[[file:img/1_lesson/solder-side.jpg]]
+- The components sit on the side with the images.
+[[file:img/1_lesson/PCB.jpg]]
 ** Record It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: record
