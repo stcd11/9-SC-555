@@ -1,6 +1,5 @@
 #+STARTUP:indent
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/main.css"/>
-#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="css/lesson.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/lesson.css"/>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil 
 #+TITLE: The BGS 555 Piano
 #+AUTHOR: Marc Scott
@@ -50,11 +49,12 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-- In this project you'll be creating an electronic piano, using an IC called a 555 timer.
+In this project you'll be creating an electronic piano, using an IC called a 555 timer.
 ** Research It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
+Use web-based resources to research the following.
 - What is meant by the term IC?
 - Look up the 555 timer?
   - What does the 555 timer do?
