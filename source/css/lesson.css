@@ -1,14 +1,14 @@
 .intro h2{
     font-size: 30px;
     color: #FFF;
-    background: #4099FF;
+    background: #98000;
     margin-top: 30px;
     padding: 10px 10px;
     border-radius: 5px;
 }
 
 .intro h3 {
-    color: #4099FF;
+    color: #98000;
     font-size: 22px;
     margin-top:10px;
     border: none;
@@ -89,7 +89,7 @@
     margin-right: 15px;
 }
 .activity header h2 {
-    background: #4099FF;
+    background: #98000;
     padding: 8px;
     padding-top: 16px;
     text-align: left;
@@ -101,7 +101,7 @@
 .activity h2 {
     font-size: 30px;
     color: #FFF;
-    background: #4099FF;
+    background: #98000;
     margin-top: 30px;
     padding: 10px 10px;
     border-radius: 5px;
@@ -115,7 +115,7 @@
     max-width:800px;
 }
 .research h3{
-    color: #4099FF;
+    color: #98000;
     background-image: url(img/Research.png);
     line-height:40px;
     background-size: 40px 40px;
@@ -128,7 +128,7 @@
     width: 100%;
 }
 .design h3 {
-    color: #4099FF;
+    color: #98000;
     background-image: url(img/Design.png);
     background-position: 0px 10px;
     background-size: 40px 40px;
@@ -144,7 +144,7 @@
     border-top: 3px dotted #4099FF;
 }
 .build h3 {
-    color: #4099FF;
+    color: #98000;
     background-image: url(img/Build.png);
     background-position: 0px 10px;
     background-size: 40px 40px;
@@ -161,7 +161,7 @@
 }
 
 .test h3 {
-    color: #4099FF;
+    color: #98000;
     background-image: url(img/Test.png);
     background-position: 0px 10px;
     background-size: 40px 40px;
@@ -178,7 +178,7 @@
 }
 
 .record h3 {
-    color: #4099FF;
+    color: #98000;
     background-image: url(img/Record.png);
     background-position: 0px 10px;
     background-size: 40px 40px;
@@ -195,7 +195,7 @@
 }
 
 .program h3 {
-    color: #4099FF;
+    color: #98000;
     background-image: url(img/Program.png);
     background-position: 0px 10px;
     background-size: 40px 40px;
@@ -212,7 +212,7 @@
 }
 
 .badge h3{
-    color: #4099FF;
+    color: #98000;
     background-image: url(img/Badge.png);
     line-height:40px;
     background-size: 40px 40px;
