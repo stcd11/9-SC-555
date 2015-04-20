@@ -131,7 +131,7 @@ Use web-based resources to research the following.
 - Now you can click through the remaining menus and convert your circuit to a PCB
 - You'll need to try and place the components so that the green connecting wires don't overlap. You might find it's easier to delete the rectangular board to begin with.
 - Once you are happy with the placement, try and connect up the components with tracks.
-- Here's an example, but try and design you own.
+- Here's an example, but try and design your own.
 [[file:img/1_lesson/PCB.png]]
 ** Record It
 :PROPERTIES:
