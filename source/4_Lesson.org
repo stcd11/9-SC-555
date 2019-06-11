@@ -132,10 +132,12 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: design
 :END:
-- We're going to use a program called Solidworks to design our instrument.
-- Solidworks is a 3D CAD program.
+- We're going to use Solidworks to design our instrument.
 - Hopefully you have already had lots of experience with Solidworks last year, so for this recap section of the project, you'll just be creating a couple of the Solidworks parts and assembling them.
 - In Solidworks you start by creating a 2D sketch. You can then convert this to a 3D part. You can then join parts together to make a 3D assembly.
+#+BEGIN_HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7InRWmtS4LY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+END_HTML
 ** Try It
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: try
