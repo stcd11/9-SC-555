@@ -125,7 +125,7 @@ Use web-based resources to research the following:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - How many transistors, diodes and resistors are in a 555 timer? 
-- Find a detailed diagram and explain what some of the pins do?
+- Find a detailed diagram and explain what all of the pins do?
 - Stuck? Try [[http://www.electronics-tutorials.ws/waveforms/555_timer.html][here]]
 * Three is the magic number
 :PROPERTIES:
