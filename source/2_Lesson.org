@@ -107,6 +107,7 @@ In this project you'll be creating an electronic piano or other instrument that 
 :HTML_CONTAINER_CLASS: badge
 :END:
 - Conduct some research on sound and what makes a note have a high or low pitch.
+- *Ensure you include images of a high an low pitch sound.*
 - Upload your findings to achieve the badge.
 * Resistance is not futile
 :PROPERTIES:
@@ -129,7 +130,7 @@ In this project you'll be creating an electronic piano or other instrument that 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: research
 :END:
-Research and collate your findings into a written report or presentation on a fully electronic music instrument such as:
+Research and collate your findings into a written report or presentation on a *fully* electronic music instrument such as *(Do not research guitars or pianos)*:
 
 - Moog modular synthesiser
 - Theremin

@@ -131,17 +131,11 @@ Use web-based resources to research the following:
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-** Research It
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: research
-:END:
-- Add to your gold work by answers the following questions: 
-- What is a flip-flop (in a 555)?
-- What is a 556? 
-- What would we use it for? 
 ** Badge It - Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Upload your work to BourneToLearn.com.
-- Make sure the overall quality of the silver and gold answers are platinum worthy.
+- Research the following and upload your work to www.bournetolearn.com.
+ 1.  What is a flip-flop (in a 555)?
+ 2.  What is a 556? 
+ 3.  What would we use it for? 

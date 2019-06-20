@@ -111,29 +111,14 @@
 - Use the images and the circuit design from the previous section, to place and solder your components to the board.
 - The components sit on the side with the images.
 [[file:img/1_lesson/PCB.jpg]]
-** Badge It - Silver/Gold
+** Badge It - Gold/Platinum
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
 - Take pictures as you solder your PCB circuit, to ensure you have a record of the progress you have made.
 - Add at least two, front and back, photos of your circuit board to Word / Powerpoint. 
 - The quality of both your soldering and research will determine the badge awarded.
+- *Silver* - The PCB is mostly complete, but not working.
+- *Gold* - Good standard, no bridges, dry joints etc.
+- *Platinum* - Excellent standard of soldering.
 
-* Evaluate the project
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: activity
-:END:
-** Badge It - Platinum
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: badge
-:END:
-  *Evaluation time!*
-- Write up your thoughts on this project in Word.
-- What was easy?
-- What was difficult?
-- What skills did you learn / practise/ improve?
-- What skills do you still need to improve?
-- Did you get a working PCB?
-- Did you design and build a working case for your instrument?
-- What tips could you give to someone starting this project?  
-- *Upload your answers for the badge to BourneToLearn.com.*

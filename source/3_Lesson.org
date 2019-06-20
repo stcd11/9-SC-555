@@ -120,7 +120,8 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Open a Word or Powerpoint document and insert, using screenshots, a set of images that demonstrates what is happening at each switch 
+- Open a Word or Powerpoint document and insert, using screenshots, a set of images that demonstrates what is happening at each switch.
+- *You will need to use the print screen button (PRTSCN) for each button that is pressed (6 buttons).* 
 - Add a description of what happens when different switches are pressed to your write-up.
 - Upload your work to BourneToCode.com.
 - The quality of your description will determine whether it is gold or platinum standard.
