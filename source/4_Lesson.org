@@ -97,6 +97,7 @@
 :HTML_CONTAINER_CLASS: design
 :END:
 - You're going to have a go at creating a PCB of your circuit.
+- First, you will need to open the circuit you designed from week 3. Make sure you delete the virtual multimeter.
 - Click the button that looks like this [[file:img/1_lesson/button.png]]
 - Click Next and then choose _Rats Nest; No Placement or Routing_ and check the box for allowing customisation.
 [[file:img/1_lesson/rats.png]]
@@ -104,11 +105,14 @@
 - For each of the PTM switches, you need to make sure you're choosing 10x10 switches. Double click the switch in the list and change it.
 [[file:img/1_lesson/PTM.png]]
 [[file:img/1_lesson/10x10.png]]
-- Now you can click through the remaining menus and convert your circuit to a PCB
+- Now you can click through the remaining menus and convert your circuit to a PCB, this is done by clicking on next, until you get to finish.
 - You'll need to try and place the components so that the green connecting wires don't overlap. You might find it's easier to delete the rectangular board to begin with.
-- Once you are happy with the placement, try and connect up the components with tracks.
+- Once you are happy with the placement, try and connect up the components *with tracks*.
 - Here's an example, but try and design your own.
+- *Please note: The potentiometer (variable reisitor) looks different to the example below, but if you follow the green lines, you will be able to do it.*
 [[file:img/1_lesson/PCB.png]]
+[[./img/Real_world_PCB.jpg]]
+[[./img/Normal_PCB.jpg]]
 ** Badge It - Silver
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
