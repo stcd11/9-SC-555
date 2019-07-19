@@ -109,7 +109,7 @@
 - You'll need to try and place the components so that the green connecting wires don't overlap. You might find it's easier to delete the rectangular board to begin with.
 - Once you are happy with the placement, try and connect up the components *with tracks*.
 - Here's an example, but try and design your own.
-- *Please note: The potentiometer (variable reisitor) looks different to the example below, but if you follow the green lines, you will be able to do it.*
+- *Please note: The potentiometer (variable resistor) looks different to the example below, but if you follow the green lines, you will be able to do it.*
 [[file:img/1_lesson/PCB.png]]
 [[./img/Real_world_PCB.jpg]]
 [[./img/Normal_PCB.jpg]]
